@@ -128,6 +128,13 @@ npm install
 npm run dev
 ```
 
+### Open app
+```bash
+Frontend: http://localhost:5173 (or the port Vite shows)
+```
+```bash
+Backend: http://localhost:8000 (or the PORT in .env)
+```
 ---
 
 ## 🚀 Live Deployment
