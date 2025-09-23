@@ -1,8 +1,7 @@
 # 🛒 AI-Powered E-Commerce Platform
 
 An **AI-powered full-stack E-Commerce Website** built with the **MERN stack (MongoDB, Express, React, Node.js)** featuring **AI-driven recommendations, Google Authentication, Razorpay Payment Gateway, and an Admin Dashboard**.  
-
-This project is designed as a **Final Year Major Project** and also serves as a **production-ready resume project**.  
+ 
 
 ---
 
